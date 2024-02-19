@@ -4,7 +4,14 @@
   padding: 2rem;
   text-align: center;
 }
-
+div{
+ display: grid; 
+}
+.pupDetails {
+  place-content: center;
+background-color: rgb(179, 219, 219);
+border: #61dafb solid;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
